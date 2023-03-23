@@ -19,7 +19,6 @@ import requests
 #FFwk15 = requests.get("https://www.fantasyfootballdatapros.com/api/players/2019/15")
 #FFwk16 = requests.get("https://www.fantasyfootballdatapros.com/api/players/2019/16")
 #FFwk17 = requests.get("https://www.fantasyfootballdatapros.com/api/players/2019/17")
-#FFwk18 = requests.get("https://www.fantasyfootballdatapros.com/api/players/2019/18")
     
 #database
 db = mysql.connect(
